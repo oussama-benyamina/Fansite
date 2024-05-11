@@ -1,0 +1,27 @@
+nav {
+    /*background-color: #444;*/
+    text-align: center;
+    padding: 10px 0;
+}
+nav a {
+    color: #e71111;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+    text-align: center;
+}
+footer{
+   
+    position:  relative;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
